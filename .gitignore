@@ -1,0 +1,7 @@
+#ignore
+ignore.php
+
+logs/
+
+#txt files ignore
+docs/*.txt
